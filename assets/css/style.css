@@ -32,6 +32,16 @@ a:hover {
   text-decoration: none;
 }
 
+p {
+  color: #000000;
+  text-decoration: none;
+  transition: all 0.5s ease;
+}
+a:hover {
+  color: #2c87ff;
+  text-decoration: none;
+}
+
 .link-two {
   color: #000000;
   transition: all 0.5s ease;
